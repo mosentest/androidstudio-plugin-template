@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.moz1q1.androidstudioplugintemplate
 
 import com.intellij.ide.highlighter.XmlFileType
 import com.intellij.psi.xml.XmlFile
